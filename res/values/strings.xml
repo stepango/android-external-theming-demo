@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DownloadableThemes</string>
+    <string name="test_image">test image</string>
+    <string name="hello_str">Hello World, MyActivity</string>
+</resources>
